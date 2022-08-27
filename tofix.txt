@@ -1,0 +1,11 @@
+index.php
+admin side date should be calculated from chekcin and checkout date
+frontend end date causing confusion
+
+dron around the wolrd video not responsive on mobile
+admin checkin confirm reserve cached wrong name showing
+contact us image is not responsive
+about us video not responsive
+when left bar minimized not full admin word is showing on desktop
+days input should be removed and days should be calculated from date
+contact us should be map showing like on template
